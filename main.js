@@ -68,13 +68,13 @@ function tableAddition(deviceArray){
     .enter()
     .append("tr");
   cells = rows.selectAll("td")
-            .data(function(d) {
-              console.log(d);
-              return d;
-            })
-            .enter()
-            .append("td")
-            .text(function(d) {
-              return d;
-            });
+    .data(function(d) {
+      console.log(d);
+      return d;
+    })
+    .enter()
+    .append("td")
+    .text(function(d) {
+      return d;
+    });
 }
