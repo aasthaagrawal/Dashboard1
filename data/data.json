@@ -1,0 +1,272 @@
+[
+  {
+    "category": "VAR Corrector", 
+    "coordinates": {
+      "lat": 33.832998926061904, 
+      "lng": -84.29304664996151
+    }, 
+    "deviceId": "GM1001", 
+    "value": 121
+  }, 
+  {
+    "category": "Transformer", 
+    "coordinates": {
+      "lat": 33.79497859484081, 
+      "lng": -84.38818192805057
+    }, 
+    "deviceId": "GM1002", 
+    "value": 123
+  }, 
+  {
+    "category": "Disconnect", 
+    "coordinates": {
+      "lat": 33.797417095532126, 
+      "lng": -84.42208935538073
+    }, 
+    "deviceId": "GM1003", 
+    "value": 118
+  }, 
+  {
+    "category": "VAR Corrector", 
+    "coordinates": {
+      "lat": 33.828155864519466, 
+      "lng": -84.49023305593546
+    }, 
+    "deviceId": "GM1004", 
+    "value": 117
+  }, 
+  {
+    "category": "Transformer", 
+    "coordinates": {
+      "lat": 33.89480885995032, 
+      "lng": -84.49430734960184
+    }, 
+    "deviceId": "GM1005", 
+    "value": 119
+  }, 
+  {
+    "category": "VAR Corrector", 
+    "coordinates": {
+      "lat": 33.733689358560184, 
+      "lng": -84.48022736726006
+    }, 
+    "deviceId": "GM1006", 
+    "value": 121
+  }, 
+  {
+    "category": "VAR Corrector", 
+    "coordinates": {
+      "lat": 33.67593835019493, 
+      "lng": -84.41585225222929
+    }, 
+    "deviceId": "GM1007", 
+    "value": 121
+  }, 
+  {
+    "category": "Transformer", 
+    "coordinates": {
+      "lat": 33.66925199109765, 
+      "lng": -84.45639847217883
+    }, 
+    "deviceId": "GM1008", 
+    "value": 117
+  }, 
+  {
+    "category": "Disconnect", 
+    "coordinates": {
+      "lat": 33.798878042298675, 
+      "lng": -84.47387195430612
+    }, 
+    "deviceId": "GM1009", 
+    "value": 115
+  }, 
+  {
+    "category": "Disconnect", 
+    "coordinates": {
+      "lat": 33.66888640935604, 
+      "lng": -84.28068442979821
+    }, 
+    "deviceId": "GM10010", 
+    "value": 117
+  }, 
+  {
+    "category": "Disconnect", 
+    "coordinates": {
+      "lat": 33.736974780903935, 
+      "lng": -84.32787788623291
+    }, 
+    "deviceId": "GM1011", 
+    "value": 115
+  }, 
+  {
+    "category": "Transformer", 
+    "coordinates": {
+      "lat": 33.704049175430875, 
+      "lng": -84.36923352957594
+    }, 
+    "deviceId": "GM1012", 
+    "value": 122
+  }, 
+  {
+    "category": "Transformer", 
+    "coordinates": {
+      "lat": 33.79592020312642, 
+      "lng": -84.37832516733695
+    }, 
+    "deviceId": "GM1013", 
+    "value": 119
+  }, 
+  {
+    "category": "Transformer", 
+    "coordinates": {
+      "lat": 33.78495884061605, 
+      "lng": -84.25166276928165
+    }, 
+    "deviceId": "GM1014", 
+    "value": 117
+  }, 
+  {
+    "category": "Disconnect", 
+    "coordinates": {
+      "lat": 33.81936149295936, 
+      "lng": -84.38283676655122
+    }, 
+    "deviceId": "GM1015", 
+    "value": 116
+  }, 
+  {
+    "category": "Disconnect", 
+    "coordinates": {
+      "lat": 33.839096202305036, 
+      "lng": -84.46248711517353
+    }, 
+    "deviceId": "GM1016", 
+    "value": 123
+  }, 
+  {
+    "category": "VAR Corrector", 
+    "coordinates": {
+      "lat": 33.73017875367165, 
+      "lng": -84.43856089753012
+    }, 
+    "deviceId": "GM1017", 
+    "value": 121
+  }, 
+  {
+    "category": "Disconnect", 
+    "coordinates": {
+      "lat": 33.656667866918525, 
+      "lng": -84.46383397967554
+    }, 
+    "deviceId": "GM1018", 
+    "value": 125
+  }, 
+  {
+    "category": "VAR Corrector", 
+    "coordinates": {
+      "lat": 33.686721865938814, 
+      "lng": -84.34201276304823
+    }, 
+    "deviceId": "GM1019", 
+    "value": 119
+  }, 
+  {
+    "category": "Transformer", 
+    "coordinates": {
+      "lat": 33.797173465969585, 
+      "lng": -84.34866944571652
+    }, 
+    "deviceId": "GM1020", 
+    "value": 115
+  }, 
+  {
+    "category": "VAR Corrector", 
+    "coordinates": {
+      "lat": 33.72736956101634, 
+      "lng": -84.50014642840806
+    }, 
+    "deviceId": "GM1021", 
+    "value": 117
+  }, 
+  {
+    "category": "Transformer", 
+    "coordinates": {
+      "lat": 33.762871967211375, 
+      "lng": -84.31641964474085
+    }, 
+    "deviceId": "GM1022", 
+    "value": 122
+  }, 
+  {
+    "category": "VAR Corrector", 
+    "coordinates": {
+      "lat": 33.88866098288783, 
+      "lng": -84.33596043510086
+    }, 
+    "deviceId": "GM1023", 
+    "value": 122
+  }, 
+  {
+    "category": "Disconnect", 
+    "coordinates": {
+      "lat": 33.815380141700906, 
+      "lng": -84.3108557311817
+    }, 
+    "deviceId": "GM1024", 
+    "value": 123
+  }, 
+  {
+    "category": "VAR Corrector", 
+    "coordinates": {
+      "lat": 33.8406363862287, 
+      "lng": -84.41721736624702
+    }, 
+    "deviceId": "GM1025", 
+    "value": 122
+  }, 
+  {
+    "category": "Disconnect", 
+    "coordinates": {
+      "lat": 33.69562560985796, 
+      "lng": -84.46122185362513
+    }, 
+    "deviceId": "GM1026", 
+    "value": 121
+  }, 
+  {
+    "category": "Transformer", 
+    "coordinates": {
+      "lat": 33.714314743511444, 
+      "lng": -84.3940580665373
+    }, 
+    "deviceId": "GM1027", 
+    "value": 114
+  }, 
+  {
+    "category": "Disconnect", 
+    "coordinates": {
+      "lat": 33.799700161317425, 
+      "lng": -84.3286600264663
+    }, 
+    "deviceId": "GM1028", 
+    "value": 115
+  }, 
+  {
+    "category": "Disconnect", 
+    "coordinates": {
+      "lat": 33.707281837335906, 
+      "lng": -84.44440422014262
+    }, 
+    "deviceId": "GM1029", 
+    "value": 114
+  }, 
+  {
+    "category": "VAR Corrector", 
+    "coordinates": {
+      "lat": 33.83510655593936, 
+      "lng": -84.38812445737774
+    }, 
+    "deviceId": "GM1030", 
+    "value": 117
+  }
+]

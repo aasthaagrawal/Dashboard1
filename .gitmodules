@@ -1,0 +1,3 @@
+[submodule "d3-simple-slider"]
+	path = d3-simple-slider
+	url = https://github.com/johnwalley/d3-simple-slider.git
