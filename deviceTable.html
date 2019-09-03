@@ -5,49 +5,23 @@
     <title>Dashboard</title>
     <link rel="stylesheet" type="text/css" href="main.css">
 </head>
-<style>
-
-html, body, #map {
-  width: 100%;
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-
-.layer, .layer svg {
-  position: absolute;
-}
-
-.layer svg {
-  width: 60px;
-  height: 20px;
-  padding-right: 100px;
-  font: 10px sans-serif;
-}
-
-.layer circle {
-  fill: brown;
-  stroke: black;
-  stroke-width: 1.5px;
-}
-</style>
 <body>
 <h1>Assets</h1>
-<hr>
-<div class="container">
+<div class="container" style="background-color:lightgrey">
 	<h1>Average Voltage</h1>
 	<div>
 		<div class="col-sm"><div id="slider-handle"></div></div>
 		<div class="col-sm"><p id="value-slider"></p></div>
 	</div>
 </div>
-<hr>
-<h2 id="Table_Heading"></h2>
-<div id="table"></div>
+<div id=table_with_heading>
+	<h2 id="Table_Heading"></h2>
+	<div id="table" ></div>
+</div>
 <div id="map"></div>
 
 </body>
-<script src="https://maps.googleapis.com/maps/api/js?key=IzaSyDc9zhfCFZ7n8aWVouNyCFqiL8m9ap2hCE"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDc9zhfCFZ7n8aWVouNyCFqiL8m9ap2hCE"></script>
 <script type="text/javascript" src="d3.min.js"></script>
 <script src="https://unpkg.com/d3-simple-slider"></script>
 <script type="text/javascript" src="main.js?t=1567473294039"></script>

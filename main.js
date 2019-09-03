@@ -70,7 +70,7 @@ function updateTable(newDeviceArray){
 //adding table
 function tableAddition(deviceArray){
   console.log("In tableAddition method");
-  var table = d3.select("#table").append("table");
+  var table = d3.select("#table_with_heading").select("#table").append("table");
   var header = table.append("thead").append("tr");
   header.selectAll("th")
     .data(["Device", "Category", "Value"])

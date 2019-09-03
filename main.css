@@ -1,0 +1,60 @@
+html, body{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2{
+	margin-left: 10px
+}
+
+#map {
+  width: 75%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.layer, .layer svg {
+  position: absolute;
+}
+
+.layer svg {
+  width: 60px;
+  height: 20px;
+  padding-right: 100px;
+  font: 10px sans-serif;
+}
+
+.layer circle {
+  fill: brown;
+  stroke: black;
+  stroke-width: 1.5px;
+}
+
+table {
+  width: 20%;
+  text-align: center;
+  margin-left: 10px
+}
+
+th{
+  border-bottom: 1px solid grey;
+  height: 40px
+  background-color: solid grey;
+} 
+
+tr{
+  border-bottom: 1px solid grey;
+  height: 40px
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+#table_with_heading{
+	
+}
+
+
+
