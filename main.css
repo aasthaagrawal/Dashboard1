@@ -14,7 +14,6 @@ h1, h2{
   width: 75%;
   height: 100%;
   margin: 0;
-  padding: 0;
 }
 
 .layer, .layer svg {
@@ -35,7 +34,6 @@ h1, h2{
 }
 
 table {
-  width: 20%;
   text-align: center;
   margin-left: 10px
 }
